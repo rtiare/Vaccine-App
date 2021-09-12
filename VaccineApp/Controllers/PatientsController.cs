@@ -11,6 +11,8 @@ namespace VaccineApp.Controllers
 {
     public class PatientsController : Controller
     {
+
+        //access patient service functions
         public readonly IPatientService _patientService;
         private readonly IVaccineService _vaccineService;
 
