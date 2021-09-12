@@ -74,3 +74,4 @@ C:\csula code\CS 4540 C#\VaccineApp\VaccineApp\obj\Debug\net5.0\VaccineApp.dll
 C:\csula code\CS 4540 C#\VaccineApp\VaccineApp\obj\Debug\net5.0\ref\VaccineApp.dll
 C:\csula code\CS 4540 C#\VaccineApp\VaccineApp\obj\Debug\net5.0\VaccineApp.pdb
 C:\csula code\CS 4540 C#\VaccineApp\VaccineApp\obj\Debug\net5.0\VaccineApp.genruntimeconfig.cache
+C:\csula code\CS 4540 C#\VaccineApp\VaccineApp\obj\Debug\net5.0\VaccineApp.csproj.AssemblyReference.cache
