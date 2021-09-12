@@ -1,0 +1,16 @@
+﻿<form method="post">
+    <div class="form-group row">
+        <label for="Id" class="col-sm-2 col-form-label">Vaccine</label>
+        <div class="col-sm-10">
+            <select for="Id" class="form-control" asp-items="ViewBag.NameList" name="Id">
+            </select>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="TotalDose" class="col-sm-2 col-form-label">New Doses Received</label>
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="TotalDose" name="TotalDose">
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Add</button>
+</form>
